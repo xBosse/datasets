@@ -1,0 +1,484 @@
+{"words": ["Andere", "Staaten", "legen", "ein", "grösseres", "Gewicht", "auf", "die", "Selbstverantwortung", "und", "die", "Mündigkeit", "des", "Bürgers", ";", "ich", "meine", ",", "dazu", "gehöre", "auch", "die", "Schweiz", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Auch", "mit", "einer", "Buchpreisbindung", "ist", "es", "für", "viele", "Buchhändler", "sinnvoller", ",", "nur", "populäre", "Bücher", "zu", "verkaufen", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Herr", "Büttiker", "orientiert", "uns", "jetzt", "mit", "Recht", ",", "wieso", ",", "weshalb", "und", "warum", "man", "diese", "13", "Millionen", "Franken", "ausgeben", "müsse", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "wir", "in", "den", "Alpen", "eine", "Entwicklung", "wollen", ",", "welche", "den", "Menschen", "und", "der", "Umwelt", "gleichermassen", "bekommt", ",", "dann", "brauchen", "wir", "eben", "auch", "eine", "Linie", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "ist", "wichtig", ",", "dass", "es", ",", "wenn", "wir", "die", "integrierte", "Versorgung", "fördern", "wollen", ",", "klar", "ist", ",", "dass", "dies", "für", "die", "Versicherten", "die", "preisgünstigten", "Modelle", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "Kernanliegen", "bei", "uns", "in", "der", "Kommission", "wie", "auch", "schon", "im", "Nationalrat", "war", "es", "natürlich", ",", "dass", "diese", "Konvention", "für", "unser", "Gesetz", ",", "das", "ja", "noch", "kommt", "-", "Forschung", "am", "Menschen", ",", "das", "werden", "wir", "in", "dieser", "Legislatur", "beraten", "-", ",", "auf", "keinen", "Fall", "ein", "Präjudiz", "schaffen", "darf", ",", "kein", "Freipass", "zur", "Verhinderung", "von", "strengeren", "Auflagen", "sein", "darf", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Die", "FDP-Liberale", "Fraktion", "geht", "mit", "dem", "Bundesrat", ",", "der", "Economiesuisse", "und", "dem", "Schweizerischen", "Gewerbeverband", "einig", ":", "Um", "die", "Buchkultur", "in", "der", "Schweiz", "zu", "erhalten", ",", "braucht", "es", "andere", ",", "kulturpolitische", "Instrumente", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "heisst", ",", "wenn", "man", "den", "öffentlichen", "Verkehr", "in", "den", "Berggebieten", "fördern", "will", ",", "muss", "man", "auch", "entsprechende", "Strassen", "haben", "oder", "diese", "ausbauen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "Sie", "sich", "auf", "den", "Ständerat", "berufen", "und", "ausführen", ",", "dass", "er", "die", "Interessen", "der", "Kantone", "vertrete", ",", "dann", "muss", "ich", "Sie", "darauf", "aufmerksam", "machen", ",", "dass", "er", "diese", "Frage", "gar", "nie", "diskutiert", "hat", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Aus", "meiner", "Sicht", "hat", "der", "Bundesrat", "hier", "seine", "Kompetenzen", "überschritten", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "Sie", "trotzdem", "bitten", ",", "diesen", "Kredit", "zu", "genehmigen", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Nun", "ist", "offenbar", "etwas", "passiert", ",", "was", "zur", "heutigen", "Situation", "geführt", "hat", ",", "nämlich", "dazu", ",", "dass", "die", "Revision", "des", "Bundesrates", "in", "Teilbereichen", "überladen", "wurde", "und", "zu", "weit", "geht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Sie", "führt", "zum", "Ausgleich", "von", "erschwerten", "Produktionsbedingungen", ",", "und", "sie", "will", "die", "Direktzahlungen", "stärken", "."], "subj": ["O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wegen", "der", "Alpenkonvention", "wird", "weder", "im", "Berner", "Oberland", ",", "noch", "im", "Wallis", ",", "noch", "in", "Graubünden", "jemand", "verarmen", ",", "weil", "eine", "wirtschaftliche", "Entwicklung", "nicht", "mehr", "möglich", "wäre", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Kantone", "können", "aber", "selbstverständlich", "dort", ",", "wo", "sie", "Bedarf", "vermuten", "oder", "wo", "sie", "eingreifen", "möchten", ",", "legiferieren", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Im", "Jahre", "2002", "wurde", "die", "parlamentarische", "Initiative", "Hegetschweiler", "eingereicht", "und", "von", "22", "bürgerlichen", "Ratsmitgliedern", "unterzeichnet", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Falls", "gleichwohl", "Eintreten", "beschlossen", "würde", ",", "bitten", "wir", "Sie", ",", "den", "Bundesrat", "und", "die", "Minderheit", "der", "WAK", "mit", "ihrem", "Antrag", "auf", "Rückweisung", "zu", "unterstützen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Es", "ist", "jedem", "Land", "vorbehalten", ",", "auf", "seinem", "eigenen", "Gebiet", "weit", "höhere", "Schutzanforderungen", "vorzusehen", "und", "viel", "strengere", "Schutzbestimmungen", "aufzustellen", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Davon", "ausgenommen", "sind", "Verträge", ",", "für", "deren", "Abschluss", "aufgrund", "von", "Gesetz", "oder", "völkerrechtlichem", "Vertrag", "der", "Bundesrat", "zuständig", "ist", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Sie", "wissen", ",", "dass", "im", "Bundesrat", "auch", "Vorschläge", "für", "die", "wirtschaftliche", "Nutzung", ",", "also", "für", "die", "Ausdehnung", "der", "Holzkette", ",", "gemacht", "wurden", ",", "während", "am", "Schluss", "als", "Substanz", "für", "Sie", "eigentlich", "nur", "noch", "ein", "einziger", "Punkt", "blieb", ",", "nämlich", "der", "Verzicht", "auf", "die", "absolute", "Pflicht", "zur", "Ersatzaufforstung", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O","O","O","O","O","O","O","O","I","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Aus", "meiner", "Sicht", "hat", "der", "Bundesrat", "hier", "seine", "Kompetenzen", "überschritten", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Die", "Biomedizinkonvention", "geht", "vom", "Grundsatz", "aus", ",", "dass", "auch", "Forschung", "an", "Urteilsunfähigen", "erforderlich", "ist", "."], "subj": ["O","O","B","O","O","I","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Kantone", "reklamieren", "die", "Verlässlichkeit", "des", "Bundes", "zu", "Recht", ",", "wenn", "man", "ihnen", "in", "Aussicht", "stellt", ",", "dass", "alle", "Projekte", ",", "die", "2008", "baureif", "sind", ",", "realisiert", "werden", "können", ",", "das", "Parlament", "aber", "beim", "Budget", "die", "entsprechenden", "Mittel", "nicht", "zur", "Verfügung", "stellt", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "bestehenden", "&quot;", "Leitlinien", "&quot;", "erachten", "wir", "als", "zu", "wenig", "verbindlich", ",", "und", "insbesondere", "der", "Bundesrat", "und", "seine", "Auftritte", "verdienen", "diesbezüglich", "für", "uns", "-", "sagen", "wir", "einmal", "-", "mehr", "Aufmerksamkeit", "als", "auch", "schon", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Die", "Biomedizinkonvention", "verlangt", "in", "diesem", "Fall", "das", ",", "was", "man", "mit", "&quot;minimal", "risk", "and", "minimal", "burden", "&quot;", "meint", ";", "sie", "verlangt", ",", "dass", "Risiko", "und", "Chancen", "in", "einem", "wirklich", "vertretbaren", "Verhältnis", "stehen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Sie", "darf", "damit", "als", "Reaktion", "auf", "einen", "Entscheid", "der", "Wettbewerbskommission", "gewertet", "werden", ",", "die", "bekanntlich", "vor", "rund", "zehn", "Jahren", "eine", "bestehende", "deutschschweizerische", "Branchenabrede", "als", "unzulässig", "erklärt", "hatte", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "Waldgesetz", "genügt", "so", ",", "wie", "es", "heute", "ist", ",", "in", "Teilbereichen", "nicht", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Darum", "bitten", "wir", "Sie", "um", "Unterstützung", "der", "Minderheit", "."], "subj": ["O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Wie", "in", "der", "Mehrheitsfassung", "wird", "auch", "hier", "verlangt", ",", "die", "Börse", "&quot;", "wenn", "immer", "möglich", "&quot;", "mit", "diesen", "Ländern", "abzustimmen", "und", "&quot;", "die", "dafür", "erforderlichen", "internationalen", "Übereinkommen", "&quot;", "abzuschliessen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Weiter", "befürchten", "die", "Gegner", ",", "dass", "durch", "eine", "Ratifizierung", "des", "Protokolls", "&quot;", "Verkehr", "&quot;", "die", "Förderung", "des", "öffentlichen", "Verkehrs", "im", "Vordergrund", "stehen", "würde", "und", "der", "Individualverkehr", "dadurch", "benachteiligt", "werden", "könnte", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Alle", "diejenigen", ",", "die", "die", "&quot;", "NZZ", "am", "Sonntag", "&quot;", "beziehen", ",", "haben", "vielleicht", "einen", "Artikel", "von", "Beat", "Kappeler", "gelesen", ",", "in", "dem", "er", "sich", "zum", "Internethandel", "äussert", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "zum", "Schluss", "noch", "auf", "ein", "anderes", "Argument", "zu", "sprechen", "kommen", ",", "für", "die", "Leute", ",", "denen", "der", "Klimaschutz", "im", "Moment", "noch", "weniger", "zentral", "erscheint", "und", "denen", "die", "anderen", "Argumente", "vielleicht", "weniger", "einleuchten", ",", "nämlich", "auf", "die", "Unabhängigkeit", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bundesrat", "ist", "trotz", "dieser", "Fakten", "der", "Meinung", ",", "es", "sei", "kein", "neues", "Gesetz", "zu", "schaffen", ",", "auf", "die", "Vorlage", "sei", "nicht", "einzutreten", ",", "und", "zwar", "im", "Wesentlichen", "aus", "drei", "Gründen", ":", "Erstens", "sind", "wir", "der", "Meinung", ",", "dass", "die", "bestehenden", "Gesetze", "genügen", ";", "zweitens", "wissen", "wir", ",", "dass", "die", "Kantone", "dort", ",", "wo", "Handlungsbedarf", "besteht", ",", "jetzt", "schon", "eingreifen", "können", ";", "drittens", "setzen", "wir", "auch", "auf", "die", "Eigenverantwortung", "der", "Branche", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "die", "Buchpreisbindung", "nur", "dazu", "dienen", "soll", ",", "höhere", "Gewinne", "zulasten", "des", "Verbrauchers", "zu", "machen", ",", "so", "kann", "man", "diesem", "Gesetz", "nicht", "zustimmen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Im", "Rahmen", "der", "Vernehmlassung", "hat", "eine", "grosse", "Mehrheit", "die", "generelle", "Verlängerung", "der", "Verjährungsfrist", "für", "Gewährleistungsansprüche", "befürwortet", "und", "betont", ",", "dass", "in", "diesem", "Bereich", "ein", "besserer", "Konsumentenschutz", "unerlässlich", "sei", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Unsere", "Alpen", "sind", "kein", "geschlossenes", "System", ";", "viele", "der", "aktuellen", "Herausforderungen", "können", "wir", "nicht", "alleine", "bewältigen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Man", "denkt", "zum", "Beispiel", "daran", ",", "dass", "Kinderkrankheiten", "nur", "an", "Kindern", "erforscht", "werden", "können", "oder", "dass", "Medikamente", ",", "wenn", "sie", "für", "Erwachsene", "sinnvoll", "sind", ",", "nicht", "unbedingt", "auch", "bei", "Kindern", "die", "entsprechenden", "gesundheitlichen", "Folgen", "haben", ",", "dass", "man", "dort", "also", "auch", "spezifisch", "bezüglich", "der", "Verträglichkeit", "für", "Kinder", "forschen", "muss", ";", "das", "ist", "nach", "Meinung", "der", "Kommission", "auch", "richtig", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Ein", "Verbot", "der", "Informationstätigkeit", "der", "genannten", "Behörden", ",", "das", "mit", "dem", "Abschluss", "der", "parlamentarischen", "Beratungen", "einsetzen", "würde", ",", "halten", "wir", "für", "unverhältnismässig", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Insofern", "denke", "ich", ",", "dass", "wir", "wirklich", "keinen", "Grund", "haben", ",", "hier", "noch", "Aufstockungen", "zu", "bewilligen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Auch", "der", "Verweis", "auf", "Artikel", "7a", "Absatz", "2", "des", "Regierungs-", "und", "Verwaltungsorganisationsgesetzes", "in", "der", "ständerätlichen", "Fassung", "ist", "überflüssig", "und", "eher", "Verwirrung", "stiftend", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O"]}
+
+{"words": ["2.", "Zum", "Argument", ",", "dass", "die", "Kantone", "eingreifen", "können", ":", "Bei", "den", "Kantonen", "ist", "die", "Haltung", "uneinheitlich", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Damit", "kann", "zumindest", "der", "Inhalt", "der", "drei", "vom", "Ständerat", "beschlossenen", "Protokolle", "von", "der", "Kommission", "im", "Detail", "geprüft", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Die", "Vorlage", "kann", "präventiv", "eine", "zu", "grosse", "&quot;", "Aktionitis", "&quot;", "bei", "Änderungen", "des", "Betriebsreglementes", "verhindern", "helfen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Kantone", "reklamieren", "die", "Verlässlichkeit", "des", "Bundes", "zu", "Recht", ",", "wenn", "man", "ihnen", "in", "Aussicht", "stellt", ",", "dass", "alle", "Projekte", ",", "die", "2008", "baureif", "sind", ",", "realisiert", "werden", "können", ",", "das", "Parlament", "aber", "beim", "Budget", "die", "entsprechenden", "Mittel", "nicht", "zur", "Verfügung", "stellt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","O"]}
+
+{"words": ["Hätte", "die", "nationalrätliche", "Kommission", "für", "Rechtsfragen", "diesen", "Initiativen", "zugestimmt", ",", "hätte", "die", "ständerätliche", "Kommission", "für", "Rechtsfragen", "die", "Befugnis", "gehabt", ",", "direkt", "einen", "Gesetzentwurf", "auszuarbeiten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Wenn", "Sie", "zu", "Hause", "umbauen", ",", "mache", "ich", "noch", "so", "gerne", "die", "Baumeisterarbeiten", "für", "Sie", ",", "und", "wenn", "ich", "nachher", "mit", "dem", "gleichen", "Argument", "komme", "und", "Ihnen", "bestätige", ",", "dass", "es", "normal", "sei", ",", "wenn", "Sie", "nur", "100000", "oder", "200000", "Franken", "mehr", "bezahlen", "müssten", ",", "möchte", "ich", "dann", "Ihre", "Argumentation", "hören", "!"], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","I","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Weder", "in", "Liechtenstein", "noch", "in", "Österreich", ",", "um", "vergleichbare", "Länder", "zu", "nennen", ",", "kann", "man", "-", "trotz", "der", "Ratifizierung", "der", "Protokolle", "-", "einen", "Rückgang", "der", "wirtschaftlichen", "Entwicklung", "feststellen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Deshalb", "sind", "wir", "für", "die", "parlamentarische", "Initiative", "Burkhalter", ",", "die", "gleichzeitig", "ein", "indirekter", "Gegenvorschlag", "zur", "Volksinitiative", "ist", "."], "subj": ["O","B","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wie", "eine", "Mehrheit", "dieses", "Parlamentes", "in", "die", "Armee", "investiert", ",", "sollte", "sie", "eigentlich", ",", "in", "der", "gleichen", "Logik", ",", "in", "die", "Energieeffizienz", "investieren", ",", "damit", "wir", "möglichst", "unabhängig", "sind", "und", "die", "Wohlfahrt", "in", "der", "Schweiz", "mit", "möglichst", "wenig", "ausländischen", "Ressourcen", "gewährleisten", "können", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "lege", "Wert", "auf", "die", "Feststellung", ",", "dass", "ich", "im", "Zusammenhang", "mit", "dem", "Erscheinen", "dieses", "Artikels", "in", "keiner", "Weise", "meine", "Hand", "im", "Spiel", "hatte", ";", "deshalb", "kann", "ich", "mir", "relativ", "ungeniert", "gestatten", ",", "einiges", "aus", "diesem", "Artikel", "vorzulesen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "ist", "doch", "einer", "der", "Knack-", "und", "Streitpunkte", "bei", "der", "Verlagerung", ",", "wenn", "wir", "die", "wirtschaftlichen", "Aspekte", "ins", "Zentrum", "stellen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","O"]}
+
+{"words": ["Die", "Abstimmungserläuterungen", "allein", "genügen", "nicht", "immer", ",", "und", "ein", "kurzer", "Auftritt", "kann", "das", "Problem", "nicht", "lösen", ",", "wenn", "über", "einen", "komplexen", "Sachverhalt", "vertiefter", "informiert", "werden", "muss", ",", "wenn", "eine", "schwierige", "Frage", "weiter", "ausgeführt", "und", "erklärt", "werden", "muss", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Konvention", "ist", "getragen", "vom", "Gedanken", ",", "dass", "die", "Globalisierung", "kaum", "vor", "der", "Medizin", "haltmacht", "und", "dass", "es", "daher", "richtig", "ist", ",", "auf", "europäischer", "Ebene", "gemeinsam", "Mindestschutzanforderungen", "für", "die", "Menschen", "vor", "den", "Eingriffen", "der", "modernen", "Medizin", "oder", "eben", "auch", "vor", "der", "Forschung", "zu", "benennen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Wenn", "man", "etwas", "genauer", "hinsieht", ",", "bemerkt", "man", "jedoch", "den", "kleinen", ",", "aber", "bedeutsamen", "Unterschied", ":", "Beim", "Modell", "der", "Mehrheit", "liegt", "der", "Fokus", "auf", "einem", "Vertrag", "zwischen", "Versicherer", "und", "Leistungserbringer", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Es", "gibt", "Gebirgskantone", ",", "die", "eigene", "Regelungen", "für", "Schneesportlehrer", "oder", "Bergführer", "und", "eigene", "Regelungen", "für", "Risikoaktivitäten", "haben", ";", "andere", "verzichten", "bewusst", "darauf", ",", "weil", "sie", "auf", "den", "bestehenden", "Gesetzesgrundlagen", "aufbauen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Deshalb", "beantrage", "ich", "im", "Namen", "der", "grünen", "Fraktion", ",", "die", "neun", "Protokolle", "der", "Alpenkonvention", "zu", "ratifizieren", ",", "wie", "uns", "das", "der", "Bundesrat", "beantragt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Der", "uns", "vorliegende", "Gesetzentwurf", "ist", "das", "Resultat", "langwieriger", "Beratungen", "und", "Debatten", "in", "der", "WAK-NR", "und", "in", "einer", "speziell", "eingesetzten", "Subkommission", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Angesichts", "der", "räumlich", "unterschiedlichen", "Entwicklung", "ist", "auch", "eine", "räumliche", "Differenzierung", "der", "Realersatzpflicht", "angebracht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Auch", "ist", "es", "unter", "Umständen", "richtig", ",", "dass", "die", "Bundesratsmitglieder", "in", "ihren", "eigenen", "Sprachregionen", "auftreten", ",", "dass", "also", "nicht", "nur", "die", "Vorstehenden", "des", "jeweiligen", "Departementes", "zur", "Information", "berechtigt", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Die", "entgeltliche", "Versteigerung", ",", "wie", "sie", "der", "Bundesrat", "und", "meine", "Minderheit", "I", "vorschlagen", ",", "stellt", "eine", "nichtdiskriminierende", "und", "allgemein", "anerkannte", "Methode", "für", "die", "Zuteilung", "dar", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "ist", "und", "bleibt", "dies", "reines", "Wunschdenken", "oder", "Ausblenden", "des", "tatsächlichen", "Verhaltens", "der", "betroffenen", "Akteure", "."], "subj": ["O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mit", "dem", "indirekten", "Gegenvorschlag", "über", "die", "Rolle", "des", "Bundesrates", "bei", "Volksabstimmungen", "sind", "die", "nötigen", "Regeln", "nun", "aufgestellt", "-", "das", "reicht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","I","O","O","O","O"]}
+
+{"words": ["Der", "Konzentrationstrend", "in", "der", "Literaturbranche", "ist", "durchaus", "nachvollziehbar", ":", "Im", "System", "mit", "Buchpreisbindung", "erhalten", "grössere", "Buchhandlungen", "in", "der", "Regel", "höhere", "Rabatte", ",", "weil", "sie", "grössere", "Mengen", "an", "Büchern", "beziehen", "und", "auf", "diese", "Weise", "dank", "einer", "besseren", "Kostenstruktur", "gegenüber", "den", "kleinen", "Buchhandlungen", "im", "Vorteil", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O","O"]}
+
+{"words": ["Damit", "kann", "Absatz", "2", "dann", "auch", "von", "den", "Gegnern", "der", "Güterverkehrsverlagerung", "missbraucht", "werden", ",", "um", "diese", "so", ",", "wie", "sie", "vom", "Volk", "1994", "beschlossen", "wurde", ",", "zu", "torpedieren", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zwar", "hat", "auch", "die", "FDP", "in", "ihrer", "Vernehmlassungsantwort", "vom", "Oktober", "2006", "festgehalten", ",", "sie", "sei", "nicht", "bereit", ",", "die", "Alpentransitbörse", "zu", "unterstützen", ";", "der", "Bundesrat", "solle", "zuerst", "nachweisen", ",", "dass", "er", "alle", "anderen", "möglichen", "Massnahmen", "geprüft", "habe", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "erwarte", "vielmehr", ",", "dass", "diese", "Belange", "in", "der", "Folge", "in", "einer", "angepassten", "Revisionsvorlage", "angegangen", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Hier", "haben", "wir", "wirklich", "eine", "grosse", "Herausforderung", ",", "und", "die", "Industrieländer", "sind", "hier", "besonders", "in", "der", "Pflicht", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wir", "haben", "im", "Zusammenhang", "mit", "dem", "Bankgeheimnis", "gesehen", ",", "wie", "das", "Ausland", "Druck", "auf", "die", "Schweiz", "ausüben", "kann", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","I","O","O"]}
+
+{"words": ["Wir", "werden", "aus", "diesem", "Grund", "den", "Antrag", "Schwander", "ablehnen", ",", "der", "mit", "der", "Möglichkeit", "einer", "Verkürzung", "auf", "ein", "Jahr", "die", "Regelung", "des", "heute", "geltenden", "Rechts", ",", "die", "wir", "ja", "korrigieren", "wollen", ",", "wiederaufnimmt", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Damit", "ist", "gleichzeitig", "gesagt", ",", "dass", "die", "verschiedenen", "raumwirksamen", "Politikbereiche", ",", "also", "allen", "voran", "die", "Wald-", "und", "die", "Landwirtschaftspolitik", ",", "gemeinsam", "nach", "Lösungen", "suchen", "müssen", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Seit", "der", "letzten", "Behandlung", "dieses", "Geschäftes", "in", "unserem", "Rat", "vor", "bald", "einem", "Jahr", "hat", "sich", "am", "Inhalt", "der", "Vorlage", "nichts", "geändert", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Kommission", "hat", "diese", "parlamentarische", "Initiative", "ausführlich", "diskutiert", ",", "und", "die", "Mehrheit", "der", "Kommission", "erachtet", "eine", "staatliche", "Parteienfinanzierung", ",", "auch", "die", "Finanzierung", "der", "Parteiarbeit", ",", "nicht", "als", "sinnvoll", ",", "auch", "nicht", "im", "hier", "vorgeschlagenen", ",", "eben", "beschränkten", "Rahmen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Genauso", "naiv", "ist", "es", "zu", "erwarten", ",", "dass", "die", "Buchpreisbindung", "ein", "dichtes", "Buchhandlungsnetz", "gewährleisten", "könne", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "grüne", "Fraktion", "unterstützt", "den", "Antrag", "der", "Mehrheit", ",", "auf", "die", "Vorlage", "einzutreten", ",", "auch", "wenn", "hier", "der", "Bundesrat", "und", "der", "Ständerat", "seit", "Längerem", "anderer", "Meinung", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Heute", "ist", "jedoch", "bei", "der", "Entwicklung", "der", "Waldflächen", "eine", "räumliche", "Differenz", "festzustellen", ":", "Während", "im", "Mittelland", "auf", "den", "Waldflächen", "weiterhin", "ein", "grosser", "Druck", "herrscht", ",", "nehmen", "die", "Waldflächen", "im", "Berggebiet", "zu", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Was", "heisst", "das", "für", "die", "parlamentarische", "Initiative", "?", "Jetzt", "ist", "klar", "der", "richtige", "Zeitpunkt", ",", "auf", "diese", "parlamentarische", "Initiative", "einzutreten", ",", "jetzt", ",", "wo", "alles", "im", "Umbruch", "ist", "und", "erarbeitet", "wird", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","O","O","O","O"]}
+
+{"words": ["Demgegenüber", "wird", "im", "Ausland", "teilweise", "die", "gesamte", "Holzverarbeitungskette", "aktiv", "gefördert", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Das", "meint", "der", "Begriff", "&quot;fremdnützige", "Forschung&quot;", "."], "subj": ["O","B","O","O","O","O","O"]}
+
+{"words": ["Wie", "eine", "Mehrheit", "dieses", "Parlamentes", "in", "die", "Armee", "investiert", ",", "sollte", "sie", "eigentlich", ",", "in", "der", "gleichen", "Logik", ",", "in", "die", "Energieeffizienz", "investieren", ",", "damit", "wir", "möglichst", "unabhängig", "sind", "und", "die", "Wohlfahrt", "in", "der", "Schweiz", "mit", "möglichst", "wenig", "ausländischen", "Ressourcen", "gewährleisten", "können", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wir", "tun", "bei", "der", "Behandlung", "dieser", "Vorlage", "gut", "daran", ",", "immer", "wieder", "daran", "zu", "denken", ",", "welche", "Konsequenzen", "unsere", "Entscheide", "für", "die", "Patientinnen", "und", "Patienten", "haben", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","I","O"]}
+
+{"words": ["Die", "Erreichung", "dieser", "Klimaziele", "ist", "also", "wirklich", "möglich", ",", "aber", "wenn", "wir", "weitermachen", "wie", "bisher", ",", "geht", "es", "wie", "gesagt", "zu", "wenig", "schnell", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Drei", "Monate", "später", "wurde", "er", "dann", "in", "der", "zweiten", "Lesung", "leider", "zum", "Minderheitsantrag", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Aus", "all", "diesen", "Gründen", "bin", "ich", "als", "Bewohner", "eines", "Alpenkantons", ",", "aber", "auch", "als", "Schweizer", "Bürger", "von", "den", "positiven", "Auswirkungen", "der", "Alpenkonvention", "und", "der", "im", "Beschluss", "des", "Ständerates", "aufgeführten", "drei", "Protokolle", "überzeugt", "und", "bitte", "Sie", ",", "den", "Minderheitsantrag", "zu", "unterstützen", "und", "auf", "das", "Geschäft", "einzutreten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Unabhängigkeit", "der", "politischen", "Parteien", "vom", "Staat", "ist", "ein", "zentraler", "Faktor", "für", "deren", "Glaubwürdigkeit", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "die", "Buchpreisbindung", "nur", "dazu", "dienen", "soll", ",", "höhere", "Gewinne", "zulasten", "des", "Verbrauchers", "zu", "machen", ",", "so", "kann", "man", "diesem", "Gesetz", "nicht", "zustimmen", "."], "subj": ["O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "ersuche", "Sie", "eindringlich", ",", "dem", "Antrag", "der", "Mehrheit", "der", "Finanzkommission", "zuzustimmen", "und", "diese", "Aufstockung", "vorzunehmen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "wir", "heute", "dieses", "alte", "Geschäft", "erneut", "behandeln", ",", "dann", "handelt", "es", "sich", "nur", "um", "die", "Frage", ",", "ob", "wir", "auf", "das", "Geschäft", "eintreten", "wollen", ",", "um", "anschliessend", "die", "Kommission", "mit", "der", "Prüfung", "der", "einzelnen", "Protokolle", "zur", "Alpenkonvention", "zu", "beauftragen", ",", "das", "heisst", "in", "erster", "Linie", "mit", "der", "Prüfung", "des", "Inhalts", "der", "gemäss", "Beschluss", "des", "Ständerates", "genehmigten", "drei", "Protokolle", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Schliesslich", "ist", "festzuhalten", ",", "dass", "die", "vorgeschlagenen", "Fristen", "auch", "dem", "internationalen", "und", "europäischen", "Recht", "entsprechen", ",", "insbesondere", "auch", "dem", "Übereinkommen", "der", "Vereinten", "Nationen", "über", "Verträge", "über", "den", "internationalen", "Warenkauf", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Für", "die", "Luftraumüberwachung", "sprechen", "wir", "uns", "auch", "mit", "unseren", "Nachbarstaaten", "ab", "und", "unterzeichnen", "Verträge", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Aber", "eine", "Tatsache", "ist", "natürlich", ",", "dass", "es", "uns", "mittlerweile", "nicht", "mehr", "gelingt", ",", "irgendwann", "und", "irgendwo", "budgetkonform", "zu", "bauen", ":", "Das", "Skyguide-Gebäude", "in", "Dübendorf", "war", "drei", "Monate", "im", "Bau", ",", "und", "es", "gab", "30", "Millionen", "Franken", "Mehrkosten", ";", "die", "Neat-Mehrkosten", "kennen", "wir", "alle", ",", "das", "ist", "mittlerweile", "sattsam", "bekannt", ";", "und", "hier", "gibt", "es", "wieder", "13", "Millionen", "Franken", "Mehrkosten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Wenn", "wir", "heute", "dieses", "alte", "Geschäft", "erneut", "behandeln", ",", "dann", "handelt", "es", "sich", "nur", "um", "die", "Frage", ",", "ob", "wir", "auf", "das", "Geschäft", "eintreten", "wollen", ",", "um", "anschliessend", "die", "Kommission", "mit", "der", "Prüfung", "der", "einzelnen", "Protokolle", "zur", "Alpenkonvention", "zu", "beauftragen", ",", "das", "heisst", "in", "erster", "Linie", "mit", "der", "Prüfung", "des", "Inhalts", "der", "gemäss", "Beschluss", "des", "Ständerates", "genehmigten", "drei", "Protokolle", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Deshalb", "ersuche", "ich", "sie", "zusammen", "mit", "der", "FDP-Fraktion", ",", "meinen", "Minderheitsantrag", "zu", "unterstützen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Selbstverständlich", "gehöre", "ich", "zu", "denjenigen", ",", "die", "am", "liebsten", "Nein", "sagen", "würden", "."], "subj": ["O","O","O","O","O","O","O","B","I","O","O","O","O"]}
+
+{"words": ["Immer", "hat", "der", "Bürger", "die", "Möglichkeit", ",", "unbeeinflusst", "von", "seiner", "jeweiligen", "Gegenpartei", "zu", "entscheiden", "und", "seine", "Verantwortung", "wahrzunehmen", ".Dazu", "kommen", "auch", "noch", "andere", "Argumente", ";", "ich", "nenne", "ein", "wirtschaftliches", ":", "Jede", "Vorschrift", ",", "die", "befolgt", "werden", "muss", ",", "löst", "Kosten", "aus", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Den", "Bauern", "machen", "sie", "natürlich", "Freude", ",", "aber", "sie", "bewirken", "auch", ",", "dass", "Konsumentinnen", "und", "Konsumenten", "mehr", "bezahlen", "müssen", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "Gegenteil", "ist", "der", "Fall", ":", "Die", "Alpenkonvention", "ist", "eine", "Chance", "für", "das", "Berggebiet", ",", "und", "sie", "verbessert", "die", "internationale", "Solidarität", "zwischen", "den", "Alpenstaaten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Internetvertriebsfirmen", "leben", "davon", ",", "dass", "sie", "tiefere", "Preise", "anbieten", ",", "und", "wir", "können", "keine", "Internetpolizei", "installieren", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Nun", "ist", "offenbar", "etwas", "passiert", ",", "was", "zur", "heutigen", "Situation", "geführt", "hat", ",", "nämlich", "dazu", ",", "dass", "die", "Revision", "des", "Bundesrates", "in", "Teilbereichen", "überladen", "wurde", "und", "zu", "weit", "geht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Damit", "ist", "gleichzeitig", "gesagt", ",", "dass", "die", "verschiedenen", "raumwirksamen", "Politikbereiche", ",", "also", "allen", "voran", "die", "Wald-", "und", "die", "Landwirtschaftspolitik", ",", "gemeinsam", "nach", "Lösungen", "suchen", "müssen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Den", "Bauern", "ist", "dieses", "zusätzliche", "Einkommen", "zu", "gönnen", "."], "subj": ["O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Der", "Bund", "kann", "mit", "keinem", "Rahmengesetz", "ein", "Restrisiko", "in", "diesen", "Bereichen", "ausschliessen", ",", "und", "auch", "die", "Kantone", "können", "dies", "mit", "keinem", "Gesetz", "tun", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Kommissionsmehrheit", "kann", "es", "offenbar", "immer", "noch", "nicht", "glauben", "und", "beantragt", ",", "die", "Alpentransitbörse", "&quot;", "wenn", "immer", "möglich", "&quot;", "mit", "den", "übrigen", "Ländern", "des", "Alpenbogens", "abzustimmen", "und", "die", "&quot;", "dafür", "allenfalls", "erforderlichen", "internationalen", "Übereinkommen", "&quot;", "abzuschliessen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Im", "Bereich", "der", "Gebäude", "haben", "wir", "in", "der", "Schweiz", "ein", "Paradebeispiel", ":", "Die", "Eawag", "hat", "ein", "Bürogebäude", ",", "das", "Forum", "Chriesbach", ",", "erstellt", ",", "welches", "einerseits", "einen", "hohen", "Wohnkomfort", "bietet", ",", "andererseits", "auch", "mit", "dem", "Ziel", "der", "2000-Watt-Gesellschaft", "kompatibel", "ist", ",", "also", "wirklich", "mit", "sehr", "geringen", "Emissionen", "auskommt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Deshalb", "ersuche", "ich", "sie", "zusammen", "mit", "der", "FDP-Fraktion", ",", "meinen", "Minderheitsantrag", "zu", "unterstützen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Weder", "in", "Liechtenstein", "noch", "in", "Österreich", ",", "um", "vergleichbare", "Länder", "zu", "nennen", ",", "kann", "man", "-", "trotz", "der", "Ratifizierung", "der", "Protokolle", "-", "einen", "Rückgang", "der", "wirtschaftlichen", "Entwicklung", "feststellen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "ist", "überhaupt", "nicht", "normal", ";", "man", "kann", "das", "berechnen", ",", "dafür", "haben", "wir", "teure", "Ingenieure", "und", "teure", "Gutachter", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Wenn", "wir", "eine", "solche", "parlamentarische", "Wertung", "vornehmen", "müssen", "und", "davon", "auszugehen", "haben", ",", "dass", "der", "Nationalrat", "dem", "wohl", "kaum", "zustimmt", ",", "fragt", "es", "sich", ",", "ob", "es", "Ihre", "Kommission", "für", "Rechtsfragen", "wirklich", "übernehmen", "soll", ",", "einen", "Entwurf", "auszuarbeiten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "intensive", "Beschäftigung", "mit", "dem", "Thema", "hat", "bei", "uns", "zwischenzeitlich", "den", "Eindruck", "gefestigt", ",", "dass", "das", "System", "der", "Buchpreisbindung", "der", "heutigen", "Zeit", "gar", "nicht", "mehr", "standhalten", "kann", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Netze", "sollen", "aber", "entstehen", "und", "sich", "entwickeln", ",", "weil", "durch", "sie", "die", "qualitativ", "beste", "Behandlung", "für", "die", "Patientinnen", "und", "Patienten", "möglich", "ist", ",", "und", "nicht", ",", "weil", "die", "Versicherungen", "solche", "Modelle", "fördern", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Beide", "Versionen", "beinhalten", ",", "dass", "die", "Versicherten", "ihre", "Wahlfreiheit", "in", "Zukunft", "einschränken", ".."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Weiter", "befürchten", "die", "Gegner", ",", "dass", "durch", "eine", "Ratifizierung", "des", "Protokolls", "&quot;", "Verkehr", "&quot;", "die", "Förderung", "des", "öffentlichen", "Verkehrs", "im", "Vordergrund", "stehen", "würde", "und", "der", "Individualverkehr", "dadurch", "benachteiligt", "werden", "könnte", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Aus", "der", "Sicht", "der", "Bevölkerung", "stellen", "sich", "da", "gelegentlich", "Lärm-", "und", "entsprechend", "auch", "Entschädigungsfragen", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Die", "Unabhängigkeit", "der", "Schweiz", "ist", "eng", "verbunden", "mit", "energetischer", "Effizienz", "."], "subj": ["O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Wir", "erwarten", "schon", ",", "dass", "sich", "die", "Mitglieder", "der", "Regierung", "etwas", "zurückhalten", ",", "aber", "dass", "sie", "sich", "auch", "erkennbar", "als", "Politikerinnen", "und", "Politiker", "zeigen", ",", "das", ",", "meinen", "wir", ",", "muss", "möglich", "bleiben", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "heisst", ":", "Alles", "ist", "offen", "und", "befindet", "sich", "im", "Umbruch", "."], "subj": ["O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["In", "Frankreich", "z", ".", "B.", "hat", "sich", "mit", "der", "Einführung", "der", "Buchpreisbindung", "das", "Verlagsangebot", "nicht", "merklich", "verändert", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Alle", "diejenigen", ",", "die", "die", "&quot;", "NZZ", "am", "Sonntag", "&quot;", "beziehen", ",", "haben", "vielleicht", "einen", "Artikel", "von", "Beat", "Kappeler", "gelesen", ",", "in", "dem", "er", "sich", "zum", "Internethandel", "äussert", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","I","O"]}
+
+{"words": ["Breite", "Zustimmung", "fand", "auch", "die", "Koordination", "der", "Verjährungsfristen", "beim", "Kauf-", "und", "beim", "Werkvertrag", ",", "ein", "Anliegen", ",", "welchem", ",", "wie", "schon", "gesagt", ",", "aus", "Sicht", "der", "BDP", "eine", "besondere", "Bedeutung", "zukommt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O"]}
+
+{"words": ["In", "der", "Kommission", "wurde", "betont", ",", "dass", "es", "bei", "der", "Parteiarbeit", "nicht", "so", "sehr", "auf", "das", "Geld", "ankomme", ",", "sondern", "auch", "auf", "den", "persönlichen", "Einsatz", "der", "Mitglieder", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Kurz", "ein", "paar", "Worte", "zur", "Vorgeschichte", "dieser", "Vorlage", "-", "vielleicht", "erinnern", "Sie", "sich", "noch", ",", "mindestens", "jene", ",", "die", "damals", "schon", "dabei", "waren", "-", ":", "Beide", "Räte", "haben", "sich", "im", "Jahr", "2002", "entschieden", ",", "die", "Behandlung", "dieses", "Übereinkommens", "bis", "zum", "Abschluss", "der", "Beratungen", "über", "das", "Transplantationsgesetz", "auszusetzen", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Branche", "-", "das", "hat", "sie", "in", "den", "letzten", "Jahren", "bewiesen", "-", "hat", "alles", "unternommen", ",", "um", "das", "zu", "tun", ";", "die", "Selbstregulierung", "ist", "also", "erfolgreich", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zu", "prüfen", "wären", "auch", "weiter", "gehende", "Abgeltungen", "des", "Aufwandes", "für", "Wahlen", "und", "Abstimmungen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Wir", "beantragen", ",", "die", "Volksinitiative", "zur", "Ablehnung", "zu", "empfehlen", "."], "subj": ["O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Die", "WBK", "Ihres", "Rates", "beantragt", "Ihnen", "einstimmig", ",", "der", "Ratifikation", "des", "Übereinkommens", "über", "Menschenrechte", "und", "Biomedizin", "zuzustimmen", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "freut", "mich", "natürlich", ",", "dass", "Herr", "Amstutz", "in", "der", "Begründung", "schreibt", ",", "dass", "der", "Ständerat", "mit", "seiner", "Fassung", "der", "Wichtigkeit", "und", "der", "Tragweite", "solcher", "völkerrechtlichen", "Verträge", "Rechnung", "getragen", "hat", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O","O"]}
+
+{"words": ["Wenn", "die", "Grünen", "hier", "den", "Minderheitsantrag", "mit", "unterstützen", ",", "dann", "nicht", "deshalb", ",", "weil", "wir", "den", "Flugverkehr", "grundsätzlich", "fördern", "wollen", ",", "sondern", "weil", "wir", "allerhöchsten", "Wert", "darauf", "legen", ",", "dass", "international", "gültige", "Sicherheitsstandards", "auch", "in", "der", "Schweiz", "durchgesetzt", "werden", "und", "gelten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Dem", "Modell", "der", "Minderheit", "Goll", "liegt", "eine", "andere", "Philosophie", "zugrunde", ":", "Hier", "wird", "davon", "ausgegangen", ",", "dass", "sich", "die", "Leistungserbringer", "in", "Netzen", "organisieren", "und", "die", "Patientinnen", "und", "Patienten", "sich", "dann", "ein", "solches", "Netz", "aussuchen", ",", "in", "dem", "sie", "behandelt", "werden", "möchten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "Bundesgesetz", "über", "die", "Buchpreisbindung", "ist", "eine", "gravierende", "Wettbewerbsbeschränkung", ",", "die", "dem", "Grundgedanken", "einer", "liberalen", "schweizerischen", "Wirtschaftsordnung", "widerspricht", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "parlamentarische", "Initiative", "Maitre", "verfolgt", "das", "Ziel", ",", "für", "die", "Regulierung", "der", "Bücherpreise", "in", "der", "Schweiz", "eine", "gesetzliche", "Grundlage", "zu", "schaffen", "."], "subj": ["O","O","O","O","B","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "-", "da", "einige", "Vorredner", "vieles", "schon", "gesagt", "haben", "-", "nicht", "alles", "noch", "einmal", "wiederholen", ",", "aber", "trotzdem", ":", "Sinn", "und", "Zweck", "dieses", "Bundesgesetzes", "über", "die", "Buchpreisbindung", "soll", "sein", ":", "1.", "Vielfalt", "und", "die", "Qualität", "des", "Kulturgutes", "Buch", "zu", "fördern", ";", "2.", "möglichst", "vielen", "Leserinnen", "und", "Lesern", "den", "Zugang", "zu", "Büchern", "zu", "den", "bestmöglichen", "Bedingungen", "zu", "gewährleisten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bundesrat", "ist", "verpflichtet", ",", "objektiv", "und", "sachlich", "zu", "informieren", ",", "er", "muss", "also", "die", "Vor-", "und", "Nachteile", "einer", "Vorlage", "darstellen", ",", "damit", "sich", "die", "Stimmberechtigten", "selbstständig", "ein", "Bild", "machen", "können", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Haltung", "ist", "uneinheitlich", ",", "und", "gegen", "den", "Willen", "der", "Kantone", "ein", "Rahmengesetz", "erlassen", "möchten", "wir", "eigentlich", "nicht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","I","O","O","O","O","O"]}
+
+{"words": ["Immer", "hat", "der", "Bürger", "die", "Möglichkeit", ",", "unbeeinflusst", "von", "seiner", "jeweiligen", "Gegenpartei", "zu", "entscheiden", "und", "seine", "Verantwortung", "wahrzunehmen", ".Dazu", "kommen", "auch", "noch", "andere", "Argumente", ";", "ich", "nenne", "ein", "wirtschaftliches", ":", "Jede", "Vorschrift", ",", "die", "befolgt", "werden", "muss", ",", "löst", "Kosten", "aus", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["In", "der", "Vernehmlassungsvorlage", "zum", "Waldgesetz", "war", "ursprünglich", "denn", "auch", "vorgesehen", ",", "die", "Investitionskredite", "auf", "die", "erste", "Verarbeitungsstufe", "der", "Holzwirtschaft", "auszudehnen", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Netze", "sollen", "aber", "entstehen", "und", "sich", "entwickeln", ",", "weil", "durch", "sie", "die", "qualitativ", "beste", "Behandlung", "für", "die", "Patientinnen", "und", "Patienten", "möglich", "ist", ",", "und", "nicht", ",", "weil", "die", "Versicherungen", "solche", "Modelle", "fördern", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Den", "Bauern", "ist", "dieses", "zusätzliche", "Einkommen", "zu", "gönnen", "."], "subj": ["O","O","B","O","O","O","I","O","O"]}
+
+{"words": ["Wir", "haben", "im", "Zusammenhang", "mit", "dem", "Bankgeheimnis", "gesehen", ",", "wie", "das", "Ausland", "Druck", "auf", "die", "Schweiz", "ausüben", "kann", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zu", "begrüssen", "ist", "nach", "Auffassung", "der", "BDP", "die", "Koordination", "der", "Verjährungsfristen", "beim", "Einbringen", "einer", "verkauften", "Sache", "in", "ein", "unbewegliches", "Bauwerk", "."], "subj": ["B","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Fakten", "sind", "eigentlich", "klar", ":", "Wir", "hatten", "diese", "dramatischen", "Unfälle", ",", "die", "die", "ganze", "Schweiz", "erschütterten", ",", "und", "wir", "haben", "gleichzeitig", "einen", "Markt", "im", "Risikosportbereich", ",", "der", "laufend", "wächst", "und", "mit", "neuen", "Kreationen", "ständig", "von", "sich", "reden", "macht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","I","O"]}
+
+{"words": ["Ich", "gestatte", "mir", "noch", "ein", "Wort", "-", "sozusagen", "zur", "Versöhnung", "-", ":", "Für", "die", "Bevölkerung", ",", "für", "die", "Umwelt", ",", "für", "den", "Alpenschutz", "noch", "viel", "entscheidender", "als", "das", "Jahr", "der", "definitiven", "Zielerreichung", "ist", "aber", ",", "dass", "jedes", "Jahr", "weniger", "LKW", "die", "Alpen", "queren", "als", "im", "Jahr", "zuvor", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Damit", "ist", "gleichzeitig", "gesagt", ",", "dass", "die", "verschiedenen", "raumwirksamen", "Politikbereiche", ",", "also", "allen", "voran", "die", "Wald-", "und", "die", "Landwirtschaftspolitik", ",", "gemeinsam", "nach", "Lösungen", "suchen", "müssen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Aus", "diesen", "Gründen", "meinen", "wir", ",", "es", "sei", "hier", "auf", "ein", "neues", "Gesetz", "zu", "verzichten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Es", "seien", "aber", "trotzdem", "noch", "einige", "Ausführungen", "erlaubt", "."], "subj": ["O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Das", "heisst", ":", "Alles", "ist", "offen", "und", "befindet", "sich", "im", "Umbruch", "."], "subj": ["O","O","O","O","O","O","O","B","I","I","I","O"]}
+
+{"words": ["Aufgrund", "seiner", "ökologischen", "Wirkung", "kann", "auch", "gesagt", "werden", ",", "dass", "es", "ein", "erster", "Schritt", "eines", "sogenannten", "Green", "New", "Deal", "ist", ",", "wie", "er", "von", "vielen", "namhaften", "Ökonomen", "empfohlen", "wird", ",", "um", "auf", "die", "Wirtschaftskrise", "zu", "antworten", "und", "gleichzeitig", "die", "Klimakrise", "zu", "berücksichtigen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Ein", "gerechter", "Verteilungsschlüssel", ",", "welcher", "zudem", ",", "dem", "Verlagerungsgesetz", "entsprechend", ",", "nachhaltig", "die", "Verkehre", "verlagert", ",", "wäre", "sehr", "schwierig", "zu", "bestimmen", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Gleichzeitig", "soll", "die", "Verjährungsfrist", "für", "Gewährleistungsansprüche", ",", "wenn", "die", "verkaufte", "Sache", "für", "ein", "unbewegliches", "Werk", "verwendet", "wird", ",", "bei", "fünf", "Jahren", "festgesetzt", "werden", ",", "damit", "die", "Gewährleistungsfrist", "im", "Kaufrecht", "mit", "der", "fünfjährigen", "Verjährungsfrist", "beim", "Werkvertrag", "koordiniert", "werden", "kann", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["So", "beantragt", "der", "Bundesrat", "bekanntlich", "die", "Rückweisung", "der", "Vorlage", "an", "die", "Kommission", "für", "den", "Fall", ",", "dass", "der", "Rat", "Eintreten", "beschliessen", "sollte", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Deshalb", "beantrage", "ich", "im", "Namen", "der", "grünen", "Fraktion", ",", "die", "neun", "Protokolle", "der", "Alpenkonvention", "zu", "ratifizieren", ",", "wie", "uns", "das", "der", "Bundesrat", "beantragt", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "Sie", "zu", "Hause", "umbauen", ",", "mache", "ich", "noch", "so", "gerne", "die", "Baumeisterarbeiten", "für", "Sie", ",", "und", "wenn", "ich", "nachher", "mit", "dem", "gleichen", "Argument", "komme", "und", "Ihnen", "bestätige", ",", "dass", "es", "normal", "sei", ",", "wenn", "Sie", "nur", "100000", "oder", "200000", "Franken", "mehr", "bezahlen", "müssten", ",", "möchte", "ich", "dann", "Ihre", "Argumentation", "hören", "!"], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Haltung", "ist", "uneinheitlich", ",", "und", "gegen", "den", "Willen", "der", "Kantone", "ein", "Rahmengesetz", "erlassen", "möchten", "wir", "eigentlich", "nicht", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "zum", "Schluss", "noch", "auf", "ein", "anderes", "Argument", "zu", "sprechen", "kommen", ",", "für", "die", "Leute", ",", "denen", "der", "Klimaschutz", "im", "Moment", "noch", "weniger", "zentral", "erscheint", "und", "denen", "die", "anderen", "Argumente", "vielleicht", "weniger", "einleuchten", ",", "nämlich", "auf", "die", "Unabhängigkeit", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Abstimmungserläuterungen", "allein", "genügen", "nicht", "immer", ",", "und", "ein", "kurzer", "Auftritt", "kann", "das", "Problem", "nicht", "lösen", ",", "wenn", "über", "einen", "komplexen", "Sachverhalt", "vertiefter", "informiert", "werden", "muss", ",", "wenn", "eine", "schwierige", "Frage", "weiter", "ausgeführt", "und", "erklärt", "werden", "muss", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["3.", "Zur", "Selbstregulierung", "der", "Branche", ":", "Die", "Branche", "hat", "seit", "diesen", "dramatischen", "Unfällen", "sehr", "viel", "unternommen", ",", "weil", "sie", "ja", "auch", "Kunden", "gewinnen", "und", "Sicherheit", "bieten", "will", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Streichungsantrag", "der", "Minderheit", "III", "(", "Giezendanner", ")", "spricht", "für", "sich", ",", "das", "heisst", ",", "er", "richtet", "sich", "gegen", "die", "Ergebnisse", "aller", "Volksabstimmungen", "über", "die", "Verlagerungspolitik", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Wenn", "man", "etwas", "genauer", "hinsieht", ",", "bemerkt", "man", "jedoch", "den", "kleinen", ",", "aber", "bedeutsamen", "Unterschied", ":", "Beim", "Modell", "der", "Mehrheit", "liegt", "der", "Fokus", "auf", "einem", "Vertrag", "zwischen", "Versicherer", "und", "Leistungserbringer", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mit", "einer", "Verjährungsfrist", "von", "zwei", "Jahren", "für", "kaufrechtliche", "Gewährleistungsansprüche", "-", "heute", "beträgt", "die", "Frist", "ein", "Jahr", "-", "soll", "ein", "besserer", "Schutz", "für", "Konsumentinnen", "und", "Konsumenten", "erreicht", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "intensive", "Beschäftigung", "mit", "dem", "Thema", "hat", "bei", "uns", "zwischenzeitlich", "den", "Eindruck", "gefestigt", ",", "dass", "das", "System", "der", "Buchpreisbindung", "der", "heutigen", "Zeit", "gar", "nicht", "mehr", "standhalten", "kann", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["So", "beantragt", "der", "Bundesrat", "bekanntlich", "die", "Rückweisung", "der", "Vorlage", "an", "die", "Kommission", "für", "den", "Fall", ",", "dass", "der", "Rat", "Eintreten", "beschliessen", "sollte", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Wenn", "die", "Grünen", "hier", "den", "Minderheitsantrag", "mit", "unterstützen", ",", "dann", "nicht", "deshalb", ",", "weil", "wir", "den", "Flugverkehr", "grundsätzlich", "fördern", "wollen", ",", "sondern", "weil", "wir", "allerhöchsten", "Wert", "darauf", "legen", ",", "dass", "international", "gültige", "Sicherheitsstandards", "auch", "in", "der", "Schweiz", "durchgesetzt", "werden", "und", "gelten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Aufgrund", "seiner", "ökologischen", "Wirkung", "kann", "auch", "gesagt", "werden", ",", "dass", "es", "ein", "erster", "Schritt", "eines", "sogenannten", "Green", "New", "Deal", "ist", ",", "wie", "er", "von", "vielen", "namhaften", "Ökonomen", "empfohlen", "wird", ",", "um", "auf", "die", "Wirtschaftskrise", "zu", "antworten", "und", "gleichzeitig", "die", "Klimakrise", "zu", "berücksichtigen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bericht", "kommt", "zum", "Schluss", ",", "dass", "eine", "unentgeltliche", "Vergabe", "von", "Durchfahrtsrechten", "aufgrund", "der", "offenen", "Frage", "eines", "gleichbehandelnden", ",", "nichtdiskriminierenden", "und", "von", "Wettbewerbsverzerrungen", "freien", "Verteilkriteriums", "äusserst", "schwer", "umsetzbar", "und", "eine", "in", "Verhandlungen", "mit", "der", "EU", "sehr", "wenig", "erfolgversprechende", "Variante", "ist", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Selbst", "das", "Bundesgericht", "hat", "nun", "aber", "hervorgehoben", ",", "dass", "dies", "eine", "einseitige", "Begünstigung", "des", "Verkäufers", "ist", "und", "dass", "die", "Interessen", "der", "Käuferschaft", "damit", "ausser", "Acht", "gelassen", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Vorlage", "kann", "präventiv", "eine", "zu", "grosse", "&quot;", "Aktionitis", "&quot;", "bei", "Änderungen", "des", "Betriebsreglementes", "verhindern", "helfen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Vor", "dem", "Hintergrund", "der", "funktionierenden", "Eigenverantwortung", "und", "der", "Selbstregulierung", "der", "Branche", "meinen", "wir", ",", "es", "sei", "kein", "Gesetz", "zu", "machen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","I","O","O"]}
+
+{"words": ["Es", "erscheint", "unsinnig", ",", "in", "Gebieten", "mit", "starker", "Waldzunahme", "bei", "Rodungen", "nach", "Ersatzaufforstungsflächen", "zu", "suchen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mit", "diesem", "Beispiel", "wird", "doch", "klar", ",", "wie", "ungeeignet", "die", "Buchpreisbindung", "als", "Regulierungsinstrument", "ist", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O"]}
+
+{"words": ["Drei", "Monate", "später", "wurde", "er", "dann", "in", "der", "zweiten", "Lesung", "leider", "zum", "Minderheitsantrag", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Zu", "prüfen", "wären", "auch", "weiter", "gehende", "Abgeltungen", "des", "Aufwandes", "für", "Wahlen", "und", "Abstimmungen", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Wir", "weisen", "darauf", "hin", ",", "dass", "die", "Bestimmungen", "dieser", "Initiative", "in", "Konkurrenz", "zu", "Artikel", "180", "Absatz", "2", "der", "Bundesverfassung", "stünden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","I","O","O","O","O","O","O","O","I","O"]}
+
+{"words": ["Andere", "Staaten", "legen", "ein", "grösseres", "Gewicht", "auf", "die", "Selbstverantwortung", "und", "die", "Mündigkeit", "des", "Bürgers", ";", "ich", "meine", ",", "dazu", "gehöre", "auch", "die", "Schweiz", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "fasse", "noch", "einmal", "kurz", "zusammen", ":", "Erstens", "genügen", "die", "bestehenden", "Rechtsgrundlagen", ",", "sowohl", "im", "Haftpflicht-", "wie", "im", "Strafrecht", ";", "zweitens", "können", "die", "Kantone", "handeln", ",", "wenn", "Handlungsbedarf", "da", "ist", ";", "drittens", "reguliert", "sich", "die", "Branche", "selbst", ",", "und", "kein", "Gesetzgeber", "kann", "ein", "Restrisiko", "ausschalten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "Sie", "sich", "auf", "den", "Ständerat", "berufen", "und", "ausführen", ",", "dass", "er", "die", "Interessen", "der", "Kantone", "vertrete", ",", "dann", "muss", "ich", "Sie", "darauf", "aufmerksam", "machen", ",", "dass", "er", "diese", "Frage", "gar", "nie", "diskutiert", "hat", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Auch", "hier", "sind", "meines", "Erachtens", "Grenzen", "zu", "ziehen", ",", "und", "das", "schweizerische", "Recht", "hat", "diese", "Grenzen", "bis", "anhin", "vernünftig", ",", "moderat", "und", "auch", "richtig", "gezogen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Wie", "eine", "Mehrheit", "dieses", "Parlamentes", "in", "die", "Armee", "investiert", ",", "sollte", "sie", "eigentlich", ",", "in", "der", "gleichen", "Logik", ",", "in", "die", "Energieeffizienz", "investieren", ",", "damit", "wir", "möglichst", "unabhängig", "sind", "und", "die", "Wohlfahrt", "in", "der", "Schweiz", "mit", "möglichst", "wenig", "ausländischen", "Ressourcen", "gewährleisten", "können", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Noch", "offen", "ist", "beim", "Flughafen", "Zürich", "z.B.", "die", "Frage", "der", "nachbarschaftlichen", "Fluglärmverteilung", "gegenüber", "den", "deutschen", "Nachbarn", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bericht", "kommt", "zum", "Schluss", ",", "dass", "eine", "unentgeltliche", "Vergabe", "von", "Durchfahrtsrechten", "aufgrund", "der", "offenen", "Frage", "eines", "gleichbehandelnden", ",", "nichtdiskriminierenden", "und", "von", "Wettbewerbsverzerrungen", "freien", "Verteilkriteriums", "äusserst", "schwer", "umsetzbar", "und", "eine", "in", "Verhandlungen", "mit", "der", "EU", "sehr", "wenig", "erfolgversprechende", "Variante", "ist", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Dies", "führt", "dazu", ",", "dass", "die", "Wirtschaft", "bei", "einer", "schnellen", "Klimaerwärmung", "mehr", "und", "mehr", "einfach", "mit", "Adaptationskosten", "belastet", "ist", "und", "sich", "nicht", "mehr", "für", "die", "Wohlfahrt", "engagieren", "kann", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "gestatte", "mir", "noch", "ein", "Wort", "-", "sozusagen", "zur", "Versöhnung", "-", ":", "Für", "die", "Bevölkerung", ",", "für", "die", "Umwelt", ",", "für", "den", "Alpenschutz", "noch", "viel", "entscheidender", "als", "das", "Jahr", "der", "definitiven", "Zielerreichung", "ist", "aber", ",", "dass", "jedes", "Jahr", "weniger", "LKW", "die", "Alpen", "queren", "als", "im", "Jahr", "zuvor", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Vorlage", "kann", "präventiv", "eine", "zu", "grosse", "&quot;", "Aktionitis", "&quot;", "bei", "Änderungen", "des", "Betriebsreglementes", "verhindern", "helfen", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Diese", "haben", "den", "Rückzug", "der", "Initiative", "ja", "auch", "so", "in", "Aussicht", "gestellt", ",", "dass", "es", "Treu", "und", "Glauben", "widersprechen", "würde", ",", "wenn", "sie", "es", "nicht", "tun", "würden", ",", "nachdem", "Sie", "nun", "Nichteintreten", "auf", "diese", "Vorlage", "beschliessen", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zur", "Begründung", "meines", "Minderheitsantrages", "zu", "Absatz", "2", ":", "Die", "Kommission", "hat", "sich", "lange", "mit", "der", "Frage", "auseinandergesetzt", ",", "ob", "die", "Durchfahrtsrechte", "unentgeltlich", "als", "Bonus", "verteilt", "werden", "können", "oder", "zwingend", "nach", "marktwirtschaftlichen", "Grundsätzen", "zu", "versteigern", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Sie", "haben", "es", "gehört", ":", "Die", "parlamentarische", "Initiative", "Fehr", "Hans-Jörg", "verlangt", "vom", "Bund", "eine", "finanzielle", "Abgeltung", "für", "die", "unverzichtbaren", "Leistungen", "der", "politischen", "Parteien", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "ist", "jedem", "Land", "vorbehalten", ",", "auf", "seinem", "eigenen", "Gebiet", "weit", "höhere", "Schutzanforderungen", "vorzusehen", "und", "viel", "strengere", "Schutzbestimmungen", "aufzustellen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "grüne", "Fraktion", "unterstützt", "den", "Antrag", "der", "Mehrheit", ",", "auf", "die", "Vorlage", "einzutreten", ",", "auch", "wenn", "hier", "der", "Bundesrat", "und", "der", "Ständerat", "seit", "Längerem", "anderer", "Meinung", "sind", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O"]}
+
+{"words": ["Ich", "möchte", "Sie", "trotzdem", "bitten", ",", "diesen", "Kredit", "zu", "genehmigen", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Unendlich", "weit", "zu", "gehen", "ist", "nicht", "möglich", ",", "weil", "die", "unendliche", "Vielfalt", "der", "Rechtsbeziehungen", "zwischen", "den", "Personen", "eine", "Unmenge", "von", "Vorschriften", "erfordern", "würde", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Ich", "glaube", "aber", ",", "dass", "das", "Verhältnis", "ein", "anderes", "ist", ",", "wenn", "jemand", "mit", "dem", "Verkäufer", "nicht", "in", "direkter", "Beziehung", "steht", ",", "sei", "es", ",", "dass", "er", "über", "das", "Internet", "mit", "ihm", "kommuniziert", ",", "sei", "es", ",", "dass", "er", "mit", "ihm", "telefoniert", ".."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zu", "diesem", "Minderheitsantrag", "gehört", "auch", "Absatz", "1bis", "in", "der", "Fassung", "der", "Mehrheit", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Grundsatz", "des", "Rodungsverbotes", "hat", "sich", "im", "20.", "Jahrhundert", "zwar", "bewährt", ";", "die", "Waldfläche", "konnte", "stabilisiert", "werden", "."], "subj": ["O","O","O","O","O","B","O","O","O","O","I","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Schweiz", "kann", "die", "Zusammenarbeit", "im", "Rahmen", "der", "Alpenkonvention", "besser", "mitprägen", "und", "beeinflussen", ",", "wenn", "sie", "mit", "der", "Ratifizierung", "der", "Protokolle", "ein", "positives", "Zeichen", "setzt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O"]}
+
+{"words": ["Die", "Abstimmungserläuterungen", "allein", "genügen", "nicht", "immer", ",", "und", "ein", "kurzer", "Auftritt", "kann", "das", "Problem", "nicht", "lösen", ",", "wenn", "über", "einen", "komplexen", "Sachverhalt", "vertiefter", "informiert", "werden", "muss", ",", "wenn", "eine", "schwierige", "Frage", "weiter", "ausgeführt", "und", "erklärt", "werden", "muss", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Sie", "soll", ",", "wie", "schon", "im", "geltenden", "Recht", ",", "auf", "650", "000", "festgelegt", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Etwas", "wissen", "wir", "mit", "Sicherheit", ":", "Früher", "oder", "später", "müssen", "global", "alle", "Gebäude", "effizienter", "beheizt", "werden", ",", "müssen", "auch", "andere", "Länder", "die", "Klimaproblematik", "ernster", "nehmen", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Es", "stellen", "sich", "folgende", "Fragen", ":", "Macht", "das", "Modell", "einer", "unentgeltlichen", "Verteilung", "im", "Sinne", "eines", "Bonussystems", "ökonomisch", "Sinn", ",", "und", "wäre", "ein", "solches", "rechtlich", "überhaupt", "möglich", ",", "beziehungsweise", "liessen", "sich", "möglicherweise", "die", "Probleme", "im", "Hinblick", "auf", "das", "Landverkehrsabkommen", "und", "den", "lokalen", "Kurzstreckenverkehr", "entschärfen", "?", "Die", "Kommission", "hat", "zu", "dieser", "Problematik", "einen", "Zusatzbericht", "der", "Verwaltung", "verlangt", "und", "erhalten", "."], "subj": ["O","B","I","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Stattdessen", "sollten", "wir", "in", "der", "Schweiz", "unser", "Know-how", "einsetzen", "und", "bessere", "Gebäude", "bauen", ".."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Unabhängigkeit", "der", "politischen", "Parteien", "vom", "Staat", "ist", "ein", "zentraler", "Faktor", "für", "deren", "Glaubwürdigkeit", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "FDP-Liberale", "Fraktion", "geht", "mit", "dem", "Bundesrat", ",", "der", "Economiesuisse", "und", "dem", "Schweizerischen", "Gewerbeverband", "einig", ":", "Um", "die", "Buchkultur", "in", "der", "Schweiz", "zu", "erhalten", ",", "braucht", "es", "andere", ",", "kulturpolitische", "Instrumente", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mit", "einer", "kostenlosen", "Vergabe", "entstünden", "neue", "Problemkreise", "in", "Form", "von", "Beihilfen", ",", "rechtlichen", "Vorbehalten", "und", "Diskriminierungstatbeständen", ",", "die", "in", "jedem", "Fall", "mit", "der", "EU", "zu", "diskutieren", "wären", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Wir", "müssen", "aufzeigen", ",", "dass", "es", "möglich", "ist", ",", "sowohl", "hohen", "Wohlstand", "zu", "haben", "als", "auch", "die", "Umweltbelastung", "massiv", "zu", "senken", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Selbst", "das", "Bundesgericht", "hat", "nun", "aber", "hervorgehoben", ",", "dass", "dies", "eine", "einseitige", "Begünstigung", "des", "Verkäufers", "ist", "und", "dass", "die", "Interessen", "der", "Käuferschaft", "damit", "ausser", "Acht", "gelassen", "werden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Dass", "die", "einseitige", "Einführung", "nicht", "möglich", "ist", "und", "sein", "wird", ",", "sollte", "nun", "andererseits", "endlich", "zur", "Kenntnis", "genommen", "werden", "."], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "erlaube", "mir", "in", "diesem", "Zusammenhang", ",", "an", "die", "von", "mir", "eingereichte", "Interpellation", "zu", "Massnahmen", "zur", "Stärkung", "der", "Wertschöpfungskette", "Schweizer", "Holz", "zu", "erinnern", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Fraktion", "der", "Grünen", "lehnt", "die", "eidgenössische", "Volksinitiative", "&quot;", "Volkssouveränität", "statt", "Behördenpropaganda", "&quot;", "ab", "und", "beantragt", "dem", "Nationalrat", ",", "das", "auch", "zu", "tun", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Wahn", "vieler", "Politiker", ",", "immer", "neue", "Einspruchsrechte", "zu", "verteilen", ",", "kostet", "sie", "selbst", "gar", "nichts", "und", "bringt", "den", "Verbänden", "von", "Konsumenten", ",", "Mietern", ",", "Umweltanliegen", ",", "Gewerkschaften", "ebenso", "kostenlos", "neues", "Prestige", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "war", "eigentlich", "eine", "gute", "Grundlage", "für", "diese", "Revision", "."], "subj": ["O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Ich", "beantrage", "Ihnen", "im", "Namen", "der", "Mehrheit", ",", "der", "Initiative", "keine", "Folge", "zu", "geben", ",", "und", ",", "Sie", "haben", "es", "gehört", ",", "dies", "wurde", "mit", "12", "zu", "9", "Stimmen", "beschlossen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Während", "rund", "fünf", "Jahren", "haben", "die", "Befürworter", "krampfhaft", "versucht", ",", "gewichtige", "Argumente", "für", "eine", "Regulierung", "der", "Buchpreise", "zu", "finden", "."], "subj": ["O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "immer", "stärker", "benutzte", "Himmel", "erfordert", "nachweislich", "eben", "internationale", "Sicherheitsstandards", ",", "die", "von", "jedem", "Land", "eingehalten", "werden", "müssen", ".."], "subj": ["O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Aber", "die", "anderen", "Alpenländer", "können", "so", "etwas", "nicht", "ohne", "das", "Einverständnis", "der", "EU", "abmachen", ":", "Es", "ist", "nicht", "möglich", "und", "nicht", "umsetzbar", ",", "was", "die", "Kommissionsmehrheit", "beantragt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bund", "kann", "mit", "keinem", "Rahmengesetz", "ein", "Restrisiko", "in", "diesen", "Bereichen", "ausschliessen", ",", "und", "auch", "die", "Kantone", "können", "dies", "mit", "keinem", "Gesetz", "tun", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "bestehenden", "&quot;", "Leitlinien", "&quot;", "erachten", "wir", "als", "zu", "wenig", "verbindlich", ",", "und", "insbesondere", "der", "Bundesrat", "und", "seine", "Auftritte", "verdienen", "diesbezüglich", "für", "uns", "-", "sagen", "wir", "einmal", "-", "mehr", "Aufmerksamkeit", "als", "auch", "schon", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Damit", "die", "Börse", "in", "Übereinstimmung", "mit", "den", "Grundsätzen", "des", "Landverkehrsabkommens", "eingeführt", "werden", "kann", ",", "sind", "zunächst", "Sondierungsgespräche", "mit", "der", "EU", "zu", "führen", ",", "um", "die", "Spielräume", "auszuleuchten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Die", "Netze", "sollen", "aber", "entstehen", "und", "sich", "entwickeln", ",", "weil", "durch", "sie", "die", "qualitativ", "beste", "Behandlung", "für", "die", "Patientinnen", "und", "Patienten", "möglich", "ist", ",", "und", "nicht", ",", "weil", "die", "Versicherungen", "solche", "Modelle", "fördern", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Anzustreben", "ist", "eigentlich", ",", "dass", "sich", "alle", "Leistungserbringer", "in", "mehr", "oder", "weniger", "grossen", "Netzen", "organisieren", "und", "dass", "dadurch", "langfristig", "alle", "Patienten", "in", "integrierten", "Versorgungsnetzen", "behandelt", "werden", "."], "subj": ["O","O","O","O","O","B","O","O","O","O","O","O","O","O","I","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Fraktion", "der", "Grünen", "lehnt", "die", "eidgenössische", "Volksinitiative", "&quot;", "Volkssouveränität", "statt", "Behördenpropaganda", "&quot;", "ab", "und", "beantragt", "dem", "Nationalrat", ",", "das", "auch", "zu", "tun", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Eine", "Finanzierung", "der", "Parteiarbeit", "durch", "den", "Staat", "würde", "denn", "auch", "von", "den", "Bürgerinnen", "und", "Bürgern", "kaum", "verstanden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Die", "Annahme", "der", "Protokolle", "hat", "für", "unser", "Land", "keine", "einschränkenden", "Massnahmen", "oder", "sogar", "Gesetzesänderungen", "zur", "Folge", "."], "subj": ["O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O"]}
+
+{"words": ["Aufgrund", "dieser", "desolaten", "Ausgangslage", "beziehungsweise", "mangels", "tauglicher", "Alternativen", "unterstützt", "eine", "grosse", "Mehrheit", "der", "FDP-Fraktion", "die", "Alpentransitbörse", "in", "der", "Fassung", "der", "Minderheit", "I."], "subj": ["O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Grünen", "empfehlen", "Ihnen", ",", "dieses", "Gebäudeprogramm", "zu", "unterstützen", ",", "dies", "sowohl", "aus", "wirtschaftlichen", "als", "auch", "aus", "ökologischen", "Gründen", "."], "subj": ["O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Das", "hatten", "wir", "gestern", "schon", ",", "und", "ich", "kann", "dazu", "nur", "sagen", ",", "dass", "einige", "hier", "nicht", "wissen", "wollen", ",", "was", "sie", "tun", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
+{"words": ["Wir", "werden", "aus", "diesem", "Grund", "den", "Antrag", "Schwander", "ablehnen", ",", "der", "mit", "der", "Möglichkeit", "einer", "Verkürzung", "auf", "ein", "Jahr", "die", "Regelung", "des", "heute", "geltenden", "Rechts", ",", "die", "wir", "ja", "korrigieren", "wollen", ",", "wiederaufnimmt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mir", "geht", "es", "aber", "noch", "um", "einen", "weiteren", "Punkt", ",", "um", "einen", "weiteren", "wichtigen", "Bereich", "der", "Waldwirtschaft", ",", "und", "das", "ist", "die", "Stärkung", "der", "Waldwirtschaft", "als", "wesentlicher", "Wirtschaftsfaktor", ",", "vor", "allem", "für", "die", "Bergregionen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Zu", "den", "Einzelanträgen", ":", "Den", "Antrag", "Weibel", "unterstützen", "wir", ",", "und", "ich", "möchte", "Ihnen", "auch", "den", "Antrag", "Fehr", "Jacqueline", "sehr", "ans", "Herz", "legen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","I","O"]}
+
+{"words": ["Es", "ist", "von", "grosser", "Wichtigkeit", ",", "dass", "wir", "dem", "Bazl", "die", "finanziellen", "Ressourcen", "geben", ",", "damit", "es", "seine", "Aufgaben", "tatsächlich", "auch", "wahrnehmen", "kann", "."], "subj": ["O","B","I","O","I","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "zum", "Schluss", "noch", "auf", "ein", "anderes", "Argument", "zu", "sprechen", "kommen", ",", "für", "die", "Leute", ",", "denen", "der", "Klimaschutz", "im", "Moment", "noch", "weniger", "zentral", "erscheint", "und", "denen", "die", "anderen", "Argumente", "vielleicht", "weniger", "einleuchten", ",", "nämlich", "auf", "die", "Unabhängigkeit", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Auch", "wenn", "der", "Antrag", "der", "Mehrheit", "auf", "den", "ersten", "Blick", "originell", "erscheint", ",", "so", "ist", "er", "eben", "doch", "höchst", "problematisch", "und", "widerspricht", "dem", "Landverkehrsabkommen", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O"]}
+
+{"words": ["Nicht", "gebunden", "-", "das", "scheint", "mir", "für", "die", "schweizerische", "Diskussion", "ganz", "wichtig", "-", "ist", "man", "hinsichtlich", "eines", "höheren", "Schutzniveaus", "."], "subj": ["O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Dem", "Modell", "der", "Minderheit", "Goll", "liegt", "eine", "andere", "Philosophie", "zugrunde", ":", "Hier", "wird", "davon", "ausgegangen", ",", "dass", "sich", "die", "Leistungserbringer", "in", "Netzen", "organisieren", "und", "die", "Patientinnen", "und", "Patienten", "sich", "dann", "ein", "solches", "Netz", "aussuchen", ",", "in", "dem", "sie", "behandelt", "werden", "möchten", "."], "subj": ["O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Je", "höher", "bei", "diesen", "Sportarten", "das", "Risiko", "steigt", ",", "desto", "lauter", "wird", "natürlich", "auch", "der", "Ruf", "nach", "dem", "Schutz", "der", "körperlichen", "Unversehrtheit", "von", "Kundinnen", "und", "Kunden", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Mit", "einer", "kostenlosen", "Vergabe", "entstünden", "neue", "Problemkreise", "in", "Form", "von", "Beihilfen", ",", "rechtlichen", "Vorbehalten", "und", "Diskriminierungstatbeständen", ",", "die", "in", "jedem", "Fall", "mit", "der", "EU", "zu", "diskutieren", "wären", "."], "subj": ["O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Für", "die", "Luftraumüberwachung", "sprechen", "wir", "uns", "auch", "mit", "unseren", "Nachbarstaaten", "ab", "und", "unterzeichnen", "Verträge", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","B","O"]}
+
+{"words": ["Ich", "bitte", "Sie", "im", "Namen", "des", "Bundesrates", ",", "der", "Kommissionsmehrheit", "zu", "folgen", "und", "nicht", "auf", "die", "Vorlage", "einzutreten", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Die", "Frage", ",", "die", "Sie", "nun", "heute", "zu", "beantworten", "haben", ",", "ist", "die", ":", "Wo", "wollen", "Sie", "eine", "Grenze", "ziehen", "?"], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","I","O"]}
+
+{"words": ["Am", "11.", "Dezember", "2009", "hat", "unser", "Rat", "mit", "97", "zu", "94", "Stimmen", "Eintreten", "auf", "den", "Bundesbeschluss", "zur", "Ratifizierung", "der", "Protokolle", "zur", "Alpenkonvention", "abgelehnt", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O"]}
+
+{"words": ["Dies", "sind", "hehre", "Ziele", "und", "eigentlich", "muss", "man", "sagen", ":", "Ja", ",", "das", "wollen", "wir", "!"], "subj": ["O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Der", "Bundesrat", "ist", "verpflichtet", ",", "objektiv", "und", "sachlich", "zu", "informieren", ",", "er", "muss", "also", "die", "Vor-", "und", "Nachteile", "einer", "Vorlage", "darstellen", ",", "damit", "sich", "die", "Stimmberechtigten", "selbstständig", "ein", "Bild", "machen", "können", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Sie", "behandeln", "insbesondere", "die", "Einwilligung", "von", "Personen", "in", "medizinische", "Interventionen", ",", "den", "Schutz", "der", "Privatsphäre", ",", "das", "Recht", "auf", "Auskunft", "der", "Betroffenen", "und", "den", "Schutz", "des", "menschlichen", "Genoms", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Eine", "der", "weiteren", "Forderungen", "der", "Initiative", "wirkt", "unverhältnismässig", ":", "Das", "Zurverfügungstellen", "der", "Abstimmungsunterlagen", "zusammen", "mit", "den", "geltenden", "Rechtsgrundlagen", "würde", "immer", "wieder", "zu", "Grossversänden", "und", "zuweilen", "zum", "Versand", "von", "Paketen", "für", "die", "Stimmberechtigten", "führen", "."], "subj": ["O","O","O","O","O","O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Ich", "möchte", "Sie", "bitten", ",", "diese", "Budgeterhöhung", "abzulehnen", "und", "beim", "Entwurf", "des", "Bundesrates", "zu", "bleiben", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O"]}
+
+{"words": ["Der", "Wahn", "vieler", "Politiker", ",", "immer", "neue", "Einspruchsrechte", "zu", "verteilen", ",", "kostet", "sie", "selbst", "gar", "nichts", "und", "bringt", "den", "Verbänden", "von", "Konsumenten", ",", "Mietern", ",", "Umweltanliegen", ",", "Gewerkschaften", "ebenso", "kostenlos", "neues", "Prestige", "."], "subj": ["O","B","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O"]}
+
+{"words": ["Wenn", "wir", "eine", "solche", "parlamentarische", "Wertung", "vornehmen", "müssen", "und", "davon", "auszugehen", "haben", ",", "dass", "der", "Nationalrat", "dem", "wohl", "kaum", "zustimmt", ",", "fragt", "es", "sich", ",", "ob", "es", "Ihre", "Kommission", "für", "Rechtsfragen", "wirklich", "übernehmen", "soll", ",", "einen", "Entwurf", "auszuarbeiten", "."], "subj": ["O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","O","B","O","O","O","O","O","O"]}
+
